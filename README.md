@@ -50,4 +50,4 @@ Idea created by Codecademy. Motivation came from the developer (Jamaal)
 
 ## Contact
 
-Created by [@jamaalbrown](jamaalwbrown@utexas.edu) - feel free to contact me
+Created by [@jamaalbrown](jamaalbrown.me) - feel free to contact me
