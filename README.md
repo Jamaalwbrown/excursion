@@ -15,4 +15,39 @@ Webpage that advertises a product called Excursion. Excursion is an app that let
 
 ## General Info
 
+Purpose of project is to practice creating webpages from specifications that a customer would provide and to gain experience in basic technologies required for web development
 
+## Screenshots
+
+Will be updated later
+
+## Technologies
+
+* html
+* css
+* git
+* github
+* command line
+* markdown
+* vscode
+
+
+## Code Examples
+
+Will be updated later
+
+## Features
+
+Will be updated later
+
+## Status
+
+**Project is:** *in progress*
+
+## Inspiration
+
+Idea created by Codecademy. Motivation came from the developer (Jamaal)
+
+## Contact
+
+Created by [@jamaalbrown](jamaalwbrown@utexas.edu) - feel free to contact me
