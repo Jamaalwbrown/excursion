@@ -22,3 +22,23 @@ p {
    font-size: 21px;
    color: Gray; 
 }
+
+footer {
+    text-align: right;
+    color: Gray;
+}
+
+.adLink {
+    color: aquamarine;
+    text-align: center;
+    font-size: 16px;
+
+}
+
+#adPic {
+    text-align: center;
+}
+
+#adSymbol {
+    text-align: center;
+}
