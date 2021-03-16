@@ -31,18 +31,9 @@ Will be updated later
 * markdown
 * vscode
 
-
-## Code Examples
-
-Will be updated later
-
-## Features
-
-Will be updated later
-
 ## Status
 
-**Project is:** *in progress*
+**Project is:** *finished*
 
 ## Inspiration
 
