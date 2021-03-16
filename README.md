@@ -7,8 +7,6 @@ Webpage that advertises a product called Excursion. Excursion is an app that let
 * General Info
 * Screenshots
 * Technologies
-* Setup
-* Features
 * Status
 * Inspiration
 * Contact
@@ -19,7 +17,7 @@ Purpose of project is to practice creating webpages from specifications that a c
 
 ## Screenshots
 
-Will be updated later
+![Excursion Website Screenshot](resources/images/README_screenshot.png "Excursion Website Screenshot")
 
 ## Technologies
 
